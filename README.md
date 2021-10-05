@@ -1,6 +1,6 @@
 # _Apprentissage de JavaScript_
 ### Afin d'exercer vos connaissances en JavaScript vous retrouverez ci-dessous une liste de petits d'exercices qui vous permettront de vérifier si la notion vue est bien comprise.
-### La solution aux exercices n'est pas présente **MAIS** même si vous bloquez, faite une recherche pour essayer d'autres choses, une soltion finira bien par fonctionner !
+### Les solutions des exercices ne sont pas présentes **MAIS** si vous bloquez, faite une recherche pour essayer d'autres choses, une solution finira bien par fonctionner !
 ### Voici une très bonne ressource concernant le JavaScript [The Modern JavaScript Tutorial](https://javascript.info/).
 ___
 
