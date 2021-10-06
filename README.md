@@ -22,7 +22,6 @@ ___
     - [ ] [String quotes](02-types/1-string-quotes)
 3. [ ] [alert, prompt, confirm](03-alert-prompt-confirm/1-simple-page)
     - [ ] [Simple page](03-alert-prompt-confirm)
-4. [ ] [Type conversion](04-type-conversions)
 5. [ ] [Operator](05-operators)
     - [ ] [Increment order](05-operators/1-simple-page)
     - [ ] [Assignment result](05-operators/2-assignment-result)
@@ -69,3 +68,12 @@ ___
 15. [ ] [JavaScript Specials](15-javascript-specials)
 
 ## _**Bon courage !**_
+___
+
+Source des exercices: **The Modern JavaScript Tutorial**: https://javascript.info/
+
+Credits : 
+-   [Jordan](https://github.com/tyc45)
+-   [Lorenzo](https://github.com/LorenzoLentini)
+-   [Hamid](https://github.com/IdurarDev)
+-   [Steven](https://github.com/Soyda)
