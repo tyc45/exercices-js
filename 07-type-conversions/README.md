@@ -1,6 +1,6 @@
-#Types Conversions
+# Types Conversions
 
-##String
+## String
 
 Convertir ce Boolean en String sans en changer la valeur
 ```js
@@ -9,7 +9,7 @@ alert(typeof value);
 
 ```
 
-##Num
+## Num
 
 Convertir ce string en Num sans en changer la valeur
 ```js
@@ -18,7 +18,7 @@ alert(typeof str);
 
 ```
 
-##Bool
+## Bool
 
 convertir ce num en Bool et afficher un bool true et un false sans utiliser les termes "true" et "false"
 ```js
