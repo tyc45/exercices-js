@@ -4,7 +4,7 @@
 ### Voici une très bonne ressource concernant le JavaScript [The Modern JavaScript Tutorial](https://javascript.info/).
 ___
 
-# _Instuctions :_
+# _Instructions :_
 - Créer un Repository sur votre Github
 - Faire un dépôt local
 - Relier votre dépôt local à https://github.com/tyc45/exercices-js et faire un pull 
@@ -13,7 +13,7 @@ ___
 - Tester la solution en lançant index.html ou pour un résultat dans la console, essayer sur un site type [JSBin](https://jsbin.com/?console,output).
 - Une fois que vous avez fini, faire un push sur votre Github
 ___
-# _Listes des exercices :_
+# _Liste des exercices :_
 1. [ ] [Variables](01-variables) :
     - [ ] [Hello variables](01-variables/1-hello-variables)
     - [ ] [Declare variable](01-variables/2-declare-variables)
