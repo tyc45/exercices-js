@@ -5,13 +5,12 @@
 ___
 
 # _Instructions :_
-- Créer un Repository sur votre Github
-- Faire un dépôt local
-- Relier votre dépôt local à https://github.com/tyc45/exercices-js et faire un pull 
+- Faire un "fork" sur le dépôt  https://github.com/tyc45/exercices-js, cela va créer un dépôt distant sur votre GitHub
+- Faire un dépôt local et le relier à votre dépôt distant https://github.com/<span style="color:red">VOTRE PSEUDO GITHUB</span>/<span style="color: rgb(51,127,214)">exercices-js</span>
 - Choisir un exercice
 - Editer le fichier script.js en ajoutant votre solution
 - Tester la solution en lançant index.html ou pour un résultat dans la console, essayer sur un site type [JSBin](https://jsbin.com/?console,output).
-- Une fois que vous avez fini, faire un push sur votre Github
+- Une fois que vous avez fini, faire un push sur votre dépôt distant Github
 ___
 # _Liste des exercices :_
 1. [ ] [Variables](01-variables) :
