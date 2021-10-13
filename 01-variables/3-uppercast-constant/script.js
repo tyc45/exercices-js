@@ -1,4 +1,6 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+const BIRTHDAY = '18.04.1982';
+const age = someCode(BIRTHDAY);
+
+ // J'utilise BIRTHDAY car c'est une constante qui est codée en "dur",
+// elle ne changera pas pendant l'exécution du code
+// En revanche j'utilise age car c'est une constante qui changera pendant le code.
