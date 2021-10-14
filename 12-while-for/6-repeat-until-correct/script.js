@@ -1,4 +1,7 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+let n = 0;
+
+while(n <= 100){
+  n = +prompt(`Saisissez un nombre supérieur à 100`);
+}
+
+alert(`Merci!`);

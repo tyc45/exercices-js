@@ -1,4 +1,1 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+// La dernière valeur sera 1 car la boucle s'arrêtera avant de pouvoir afficher i = 0

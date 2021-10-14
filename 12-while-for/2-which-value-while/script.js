@@ -1,4 +1,2 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+/* La 1ere boucle affiche 4 en dernière valeur car l'incrémentation de i se produit avant l'entrée en boucle
+Inversement la seconde boucle affiche 5 en dernier car l'incrémentation de i se produit après l'entrée en boucle */
