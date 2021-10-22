@@ -67,7 +67,7 @@ ___
 ## _**Bon courage !**_
 ___
 
-Source des exercices: **The Modern JavaScript Tutorial**: https://javascript.info/
+Source des exercices: **The Modern JavaScript Tutorial**: https://fr.javascript.info/
 
 Credits : 
 -   [Jordan](https://github.com/tyc45)
